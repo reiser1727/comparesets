@@ -1,0 +1,9 @@
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.Transversal\bin\Debug\netstandard2.0\SetsProcessor.Transversal.deps.json
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.Transversal\bin\Debug\netstandard2.0\SetsProcessor.Transversal.dll
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.Transversal\bin\Debug\netstandard2.0\SetsProcessor.Transversal.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.Transversal\obj\Debug\netstandard2.0\SetsProcessor.Transversal.csprojAssemblyReference.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.Transversal\obj\Debug\netstandard2.0\SetsProcessor.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.Transversal\obj\Debug\netstandard2.0\SetsProcessor.Transversal.AssemblyInfoInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.Transversal\obj\Debug\netstandard2.0\SetsProcessor.Transversal.AssemblyInfo.cs
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.Transversal\obj\Debug\netstandard2.0\SetsProcessor.Transversal.dll
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.Transversal\obj\Debug\netstandard2.0\SetsProcessor.Transversal.pdb

@@ -1,0 +1,16 @@
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\bin\Debug\netcoreapp2.2\Init.deps.json
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\bin\Debug\netcoreapp2.2\Init.runtimeconfig.json
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\bin\Debug\netcoreapp2.2\Init.runtimeconfig.dev.json
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\bin\Debug\netcoreapp2.2\Init.dll
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\bin\Debug\netcoreapp2.2\Init.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\obj\Debug\netcoreapp2.2\Init.csprojAssemblyReference.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\obj\Debug\netcoreapp2.2\Init.csproj.CoreCompileInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\obj\Debug\netcoreapp2.2\Init.AssemblyInfoInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\obj\Debug\netcoreapp2.2\Init.AssemblyInfo.cs
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\obj\Debug\netcoreapp2.2\Init.dll
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\obj\Debug\netcoreapp2.2\Init.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\bin\Debug\netcoreapp2.2\SetsProcessor.API.dll
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\bin\Debug\netcoreapp2.2\SetsProcessor.Domain.dll
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\bin\Debug\netcoreapp2.2\SetsProcessor.API.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\bin\Debug\netcoreapp2.2\SetsProcessor.Domain.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\Init\obj\Debug\netcoreapp2.2\Init.csproj.CopyComplete

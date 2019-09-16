@@ -1,0 +1,14 @@
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\bin\Debug\netstandard2.0\SetsProcessor.API.deps.json
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\bin\Debug\netstandard2.0\SetsProcessor.API.dll
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\obj\Debug\netstandard2.0\SetsProcessor.API.csprojAssemblyReference.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\obj\Debug\netstandard2.0\SetsProcessor.API.csproj.CoreCompileInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\obj\Debug\netstandard2.0\SetsProcessor.API.AssemblyInfoInputs.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\obj\Debug\netstandard2.0\SetsProcessor.API.AssemblyInfo.cs
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\bin\Debug\netstandard2.0\SetsProcessor.API.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\bin\Debug\netstandard2.0\SetsProcessor.Domain.dll
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\bin\Debug\netstandard2.0\SetsProcessor.Domain.pdb
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\obj\Debug\netstandard2.0\SetsProcessor.API.Resources.resources
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\obj\Debug\netstandard2.0\SetsProcessor.API.csproj.GenerateResource.cache
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\obj\Debug\netstandard2.0\SetsProcessor.API.csproj.CopyComplete
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\obj\Debug\netstandard2.0\SetsProcessor.API.dll
+C:\Users\MANCON\Downloads\Personal\PruebaZKTeco\Code\SetsProcessor\SetsProcessor.API\obj\Debug\netstandard2.0\SetsProcessor.API.pdb
